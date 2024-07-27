@@ -1,9 +1,9 @@
-class BinarySearch:
+class Solution:
     def search(self, nums:list[int],target: int) -> int:
         l,r = 0
 
         while l <= r:
-            m = (l+r)//2
+            m = (l+r) //2
 
             if num[m] > target:
                 r = m - 1
