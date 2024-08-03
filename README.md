@@ -1,6 +1,6 @@
 ﻿# Algorithms_and_data-_structure
  
-## Programação em C do básico ao avançado
+## C programming from basic to advanced
 This repository contains the source code for the course "Programação em C do básico ao avançado" by Geek University.
 
 ## Course Content
@@ -23,7 +23,7 @@ Preprocessor
 Debugging
 Makefile
 
-## Exercícios - Programação C
+## Exercícios - Programação C - The proposed exercise I will leave in Portuguese, because translating one by one would take time
  1. Faça um programa que leia um número inteiro e o imprima.
  2. Faça um programa que leia um número real e o imprima.
  3. Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
