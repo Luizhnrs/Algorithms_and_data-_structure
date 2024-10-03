@@ -24,7 +24,7 @@ Debugging
 Makefile
 
 ## Exercícios - Programação C - The proposed exercise I will leave in Portuguese, because translating one by one would take time
- 1. Faça um programa que leia um número inteiro e o imprima.
+ 1. Faça um programa que leia um número inteiro e o imprima. [ X ]
  2. Faça um programa que leia um número real e o imprima.
  3. Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
  4. Leia um número real e imprima o resultado do quadrado desse número.
