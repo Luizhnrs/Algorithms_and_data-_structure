@@ -1,4 +1,4 @@
-﻿# Algorithms_and_data-_structure
+��﻿# Algorithms_and_data-_structure
  
 ## C programming from basic to advanced
 This repository contains the source code for the course "Programação em C do básico ao avançado" by Geek University.
@@ -33,8 +33,8 @@ Makefile
  7. Leia uma temperatura em graus Fahrenheit e apresente-a convertida em graus Celsius. A fórmula de conversão é C = 5.0+(F — 32.0)/9.0, sendo C a temperatura em Celsius e F a temperatura em Fahrenheit.
  8. Leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. A fórmula de conversão é: C = K — 273.15, sendo C a temperatura em Celsiuse K a temperatura em Kelvin.
  9. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Kelvin. A fórmula de conversão é: K = C + 273.15, sendo C a temperatura em Celsiuse K a temperatura em Kelvin.
- 10. Leia uma velocidade em km/h (quilômetros por hora) e apresente-a convertida em m/s (metros por segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade em km/h e M em m/s
- 11. Leia uma velocidade em m/s (metros por segundo) e apresente-a convertida em km/h (quilômetros por hora). A fórmula de conversão é: K = M * 3.6, sendo K a velocidade em km/he M em m/s.
+ 10. Leia uma velocidade em km/h (quilômetros por horae apresente-a convertida em m/s (metros por segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade em km/h e M em m/s
+ 11. Leia uma velocidade em m/s (metros por segundoe apresente-a convertida em km/h (quilômetros por hora). A fórmula de conversão é: K = M * 3.6, sendo K a velocidade em km/he M em m/s.
  12. Leia uma distância em milhas e apresente-a convertida em quilômetros. A fórmula de conversão é: K = 1,61 M, sendo K a distância em quilômetros e M em milhas.
  13. Leia uma distância em quilômetros e apresente-a convertida em milhas. A fórmula de conversão é: M = K/1,61 Tão sendo K a distância em quilômetros e M em milhas.
  14. Leia um ângulo em graus e apresente-o convertido em radianos. A fórmula de conversão é: R = G* π /180, sendo G o ângulo em graus e R em radianos e π = 3.14.
@@ -64,7 +64,7 @@ Makefile
  38. Leia o salário de um funcionário. Calcule e imprima o valor do novo salário, sabendo-se que ele recebeu um aumento de 25%.
  39. A importância de R$ 780.000,00 será dividida entre três ganhadores de um concurso. Sendo que da quantia total: • O primeiro ganhador receberá 46%; • O segundo receberá 32%; • O terceiro receberá o restante; Calcule e imprima a quantia ganha por cada um dos ganhadores.
  40. Uma empresa contrata um encanador a R$ 30,00 por dia. Faça um programa que solicite o número de dias trabalhados pelo encanador e imprima a quantia líquida que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda.
- 41. Faça um programa que leia o valor da hora de trabalho (em reais) e número de horas trabalhadas no mês. Imprima o valor a ser pago ao funcionário, adicionando 10% sobre o valor calculado.
+ 41. Faça um programa que leia o valor da hora de trabalho (em reaise número de horas trabalhadas no mês. Imprima o valor a ser pago ao funcionário, adicionando 10% sobre o valor calculado.
  42. Receba o salário-base de um funcionário. Calcule e imprima o salário a receber, sabendo-se que esse funcionário tem uma gratificação de 5% sobre o salário-base. Além disso, ele paga 7% de imposto sobre o salário-base.
  43. Escreva um programa de ajuda para vendedores. A partir de um valor total lido, mostre: • o total a pagar com desconto de 10%; • o valor de cada parcela, no parcelamento de 3 x sem juros; • a comissão do vendedor, no caso da venda ser a vista (5% sobre o valor com desconto) • a comissão do vendedor, no caso da venda ser parcelada (5% sobre o valor total)
  44. Receba a altura do degrau de uma escada e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo.
@@ -72,7 +72,7 @@ Makefile
  46. Faça um programa que leia um número inteiro positivo de três dígitos (de 100 a 999). Gere outro número formado pelos dígitos invertidos do número lido. Exemplo: número lido = 123, número gerado = 321.
  47. Leia um número inteiro positivo de 4 dígitos (de 1000 a 9999) e imprima 1 dígito por linha.
  48. Leia um valor inteiro em segundos, e imprima-o em horas, minutos e segundos.
- 49. Faça um programa que leia o horario (hora, minuto e segundo) de inicio e a duracao, em segundos, de uma experiencia biologica. O programa deve resultar com o novo horario (hora, minuto e segundo) do termino da mesma.
+ 49. Faça um programa que leia o horario (hora, minuto e segundo) de inicio e a duracao, em segundos, de uma experiencia biologica. O programa deve resultar com o novo horario (hora, minuto e segundodo termino da mesma.
  50. Implemente um programa que calcule o ano de nascimento de uma pessoa a partir de sua idade e do ano atual.
  51. Escreva um programa que leia as coordenadas x e y de pontos no R² e calcule sua distância da origem (0, 0).
  52. Três amigos jogaram na loteria. Caso eles ganhem, o prêmio deve ser repartido proporcionalmente ao valor que cada deu para a realização da aposta. Faça um programa que leia quanto cada apostador investiu, o valor do prêmio, e imprima quanto cada um ganharia do prêmio com base no valor investido.
